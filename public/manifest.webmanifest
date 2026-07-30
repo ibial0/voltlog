@@ -1,0 +1,15 @@
+{
+  "name": "VoltLog",
+  "short_name": "VoltLog",
+  "description": "Track. Understand. Save. Daily electricity meter reading tracker.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fcfbf8",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
